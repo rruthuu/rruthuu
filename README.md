@@ -34,4 +34,4 @@ Features include:
 - Snowflake loading
 - Automated testing
 
-📌 [Airflow project](github.com/rruthuu/retail-data-engineering-pipeline)
+📌 [Airflow project](https://github.com/rruthuu/retail-data-engineering-pipeline)
