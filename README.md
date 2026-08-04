@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Ruthu
 
-<!--
-**rruthuu/rruthuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer
 
-Here are some ideas to get you started:
+Python • Snowflake • Apache Airflow • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Engineer with 3+ years of experience building enterprise ETL solutions and modern data engineering projects.
+
+## Tech Stack
+
+- Python
+- SQL
+- Snowflake
+- Apache Airflow
+- Docker
+- Git
+- GitLab CI/CD
+- Pandas
+- Pytest
+
+## Featured Project
+
+### Production-Style Retail Data Engineering Platform
+
+An end-to-end ETL pipeline built using Python, Apache Airflow, Docker, Snowflake, and Pytest.
+
+Features include:
+
+- REST API ingestion
+- Data profiling
+- Validation framework
+- Transformation
+- Dimensional modeling
+- Snowflake loading
+- Automated testing
+
+📌 github.com/rruthuu/retail-data-engineering-pipeline
